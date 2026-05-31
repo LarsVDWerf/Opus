@@ -1,0 +1,29 @@
+{
+  "_mock": true,
+  "_bron": "Microsoft 365 Agenda / Google Calendar",
+  "_toelichting": "Vervang dit bestand door een call naar tools/m365/get_agenda.py of tools/google/get_agenda.py",
+  "datum": "2026-06-01",
+  "afspraken": [
+    {
+      "tijd": "09:00",
+      "titel": "Weekly sync Univia team",
+      "locatie": "Microsoft Teams",
+      "duur_min": 30,
+      "deelnemers": ["Lars", "teamlid A", "teamlid B"]
+    },
+    {
+      "tijd": "11:00",
+      "titel": "Klantgesprek — AI-roadmap bespreking",
+      "locatie": "Kantoor Eindhoven",
+      "duur_min": 60,
+      "deelnemers": ["Lars", "contactpersoon klant"]
+    },
+    {
+      "tijd": "14:30",
+      "titel": "Review AI-implementatie fase 1",
+      "locatie": "Microsoft Teams",
+      "duur_min": 45,
+      "deelnemers": ["Lars", "projectteam"]
+    }
+  ]
+}

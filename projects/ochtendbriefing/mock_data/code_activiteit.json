@@ -1,0 +1,26 @@
+{
+  "_mock": true,
+  "_bron": "git log --since='yesterday 22:00' op geconfigureerde repos",
+  "_toelichting": "Vervang door een script dat `git log` draait op de repos uit tools/appdev/DRAAIBOEK.md",
+  "periode": "gisteren 22:00 – vandaag 07:00",
+  "repos_gemonitord": ["[CONFIGUREER: lijst van repos hier]"],
+  "commits": [
+    {
+      "repo": "univia/klant-dashboard",
+      "bericht": "feat: exportfunctie CSV toegevoegd",
+      "auteur": "lars",
+      "tijdstip": "23:14",
+      "branch": "feature/export"
+    },
+    {
+      "repo": "opus-agent",
+      "bericht": "Opus: lege fundering aangemaakt",
+      "auteur": "opus",
+      "tijdstip": "01:45",
+      "branch": "main"
+    }
+  ],
+  "open_pull_requests": 1,
+  "mislukte_builds": 0,
+  "CI_status": "groen"
+}

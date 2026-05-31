@@ -1,0 +1,22 @@
+{
+  "_mock": true,
+  "_bron": "ClickUp activiteitsfeed / Microsoft Teams mentions",
+  "_toelichting": "Vervang door calls naar tools/clickup/get_activiteit.py en tools/m365/get_teams_updates.py",
+  "periode": "gisteren 17:00 – nu",
+  "samenvatting": "Geen blokkades. Twee taken afgerond door teamleden. Één review-comment wacht op reactie.",
+  "updates": [
+    {
+      "persoon": "Teamlid A",
+      "actie": "Taak 'Technische documentatie module 2' afgerond",
+      "tijdstip": "gisteren 17:30",
+      "bron": "ClickUp"
+    },
+    {
+      "persoon": "Teamlid B",
+      "actie": "Review-comment geplaatst op PR in klant-dashboard — wacht op jouw reactie",
+      "tijdstip": "gisteren 16:45",
+      "bron": "GitHub / Teams"
+    }
+  ],
+  "blokkades": []
+}

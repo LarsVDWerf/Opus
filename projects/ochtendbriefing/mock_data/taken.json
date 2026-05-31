@@ -1,0 +1,39 @@
+{
+  "_mock": true,
+  "_bron": "ClickUp",
+  "_toelichting": "Vervang dit bestand door een call naar tools/clickup/get_taken.py",
+  "taken": [
+    {
+      "id": "MOCK-001",
+      "titel": "Voorstel AI-roadmap klant schrijven",
+      "status": "open",
+      "prioriteit": "hoog",
+      "deadline": "2026-06-03",
+      "lijst": "Univia / Projecten"
+    },
+    {
+      "id": "MOCK-002",
+      "titel": "Review deploymentscript nieuwe module",
+      "status": "open",
+      "prioriteit": "normaal",
+      "deadline": "2026-06-05",
+      "lijst": "Univia / Development"
+    },
+    {
+      "id": "MOCK-003",
+      "titel": "Offerte controleren en versturen",
+      "status": "open",
+      "prioriteit": "hoog",
+      "deadline": "2026-06-02",
+      "lijst": "Univia / Sales"
+    },
+    {
+      "id": "MOCK-004",
+      "titel": "Factuur Q1 controleren in Jortt",
+      "status": "gedaan",
+      "prioriteit": "normaal",
+      "deadline": "2026-05-31",
+      "lijst": "Administratie"
+    }
+  ]
+}
